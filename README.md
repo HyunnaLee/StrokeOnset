@@ -11,9 +11,9 @@ This repo. provides the MATLAB codes for "Machine Learning Apploach to Identify 
 # Requrements
 
 This code is optimized on MATLAB R2018a and requres other libraries as follows:
-1) Tools for NIfTI and ANALYZE image [link](https://kr.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image),
-2) SPM12 [link](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/),
-3) LIBSVM - A Library for Support Vector Machines [link](https://www.csie.ntu.edu.tw/~cjlin/libsvm/).
+1) Tools for NIfTI and ANALYZE image [[link]](https://kr.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image),
+2) SPM12 [[link]](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/),
+3) LIBSVM - A Library for Support Vector Machines [[link]](https://www.csie.ntu.edu.tw/~cjlin/libsvm/).
 
 [Article about this implemention](https://)
 
